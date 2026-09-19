@@ -1,145 +1,183 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Aditya%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%26%20AI%20Enthusiast&descAlignY=55&descSize=20" alt="Profile Banner"/>
-</p>
+<div align="center">
 
-<h1 align="center">Aditya Singh</h1>
-<p align="center">
-  Data Scientist & AI Engineer in the making · Machine Learning · Deep Learning · Generative AI · NLP · Computer Vision
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Aditya%20Singh&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%26%20AI%20Engineer&descAlignY=55&descSize=20" alt="Profile Banner"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-singh-606294292">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:adityasingh.iit12345@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/1404_aditya/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/aditya-singh-606294292">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:adityasingh.iit12345@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/1404_aditya/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
 
----
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🟢_Open_to-Data%20Science%20%2F%20ML%20%2F%20AI%20Roles-1f6feb?style=for-the-badge" />
+
+<br/><br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+end-to-end+ML+%26+DL+systems;Exploring+Generative+AI+%2B+Multi-Agent+workflows;Turning+messy+data+into+deployable+products;Always+shipping+%E2%80%94+always+learning" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br/>
 
 ## 🙋 About Me
 
-I'm a Data Science & AI enthusiast studying at **Lovely Professional University**, with close to **3 years** of hands-on coding experience across the ML lifecycle — from data engineering and OOP-driven backends to deep learning and Generative AI systems. I enjoy owning projects end-to-end, from data collection to a deployable product, and I approach problems with structured, first-principles thinking.
+```python
+class AdityaSingh:
+    def __init__(self):
+        self.role         = "Data Science & AI Enthusiast"
+        self.base         = "Lovely Professional University"
+        self.experience   = "~3 years of hands-on coding"
+        self.focus        = ["Machine Learning", "Deep Learning",
+                              "Generative AI", "NLP", "Computer Vision"]
+        self.currently    = "Building multi-agent AI systems end-to-end"
+        self.philosophy   = "Own the problem, ship the product, learn the internals"
 
-- 🔭 Currently building end-to-end **ML/DL and Generative AI** systems
-- 🌱 Deepening my knowledge of **NLP, Computer Vision, and Multi-Agent AI systems**
-- 💬 Happy to talk about **Machine Learning, Deep Learning, Python, or Data Science**
-- 📫 Reach me at **adityasingh.iit12345@gmail.com**
+    def say_hi(self):
+        print("Let's build something worth deploying. 🚀")
 
-**Core competencies:** Data Analysis · Object-Oriented Programming · Operating Systems · Computer Networks
-**Soft skills:** Ownership mindset · Clear communication · Structured problem-solving
+me = AdityaSingh()
+me.say_hi()
+```
 
----
+- 🔭 Currently building **end-to-end ML/DL and Generative AI systems**
+- 🌱 Deepening my knowledge of **NLP, Computer Vision, and Multi-Agent AI**
+- ⚡ Core strengths: **Data Analysis · OOP · Operating Systems · Computer Networks**
+- 💬 Ask me about **Machine Learning, Deep Learning, Python, or Data Science**
+- 📫 **adityasingh.iit12345@gmail.com**
+
+<br/>
 
 ## 🛠️ Tech Stack
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+<div align="center">
 
-**ML / Deep Learning**
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
+**Languages & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,mysql&theme=dark" />
+
+**Machine Learning & Deep Learning**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
 
 **Web & Backend**
-<p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=flask,django,fastapi&theme=dark" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 
-**Databases**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+**Databases & Infra**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,aws&theme=dark" />
 
 **Tools & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,anaconda&theme=dark" />
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
 
----
+</div>
+
+<br/>
 
 ## 📌 Featured Projects
 
-### [AI-Powered Handwritten Character & Word Recognition Platform](https://github.com/AdityaSingh0414/End-to-End-Project-/tree/main/Machine_Deep_Learning%20Project/Project-0(handwriting-ai-platform))
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖊️ [Handwriting AI Platform](https://github.com/AdityaSingh0414/End-to-End-Project-/tree/main/Machine_Deep_Learning%20Project/Project-0(handwriting-ai-platform))
 *Jan '26 – Mar '26*
-Full-stack platform for real-time recognition of handwritten digits, alphabets, and words from canvas input. Built custom CNN and CRNN models trained on MNIST/EMNIST with confidence-based inference, OpenCV-based preprocessing, character/word segmentation, and an analytics dashboard with prediction history and CSV reporting.
-`Python` `Flask` `React.js` `TensorFlow` `OpenCV` `Deep Learning` `Computer Vision`
 
-### [Document Deduplication & Semantic Search System](https://github.com/AdityaSingh0414/End-to-End-Document-Deduplication-System-)
+Real-time recognition of handwritten digits, letters & words from canvas input. Custom **CNN + CRNN** trained on MNIST/EMNIST, OpenCV preprocessing, character/word segmentation, and an analytics dashboard with CSV reporting.
+
+`Python` `Flask` `React.js` `TensorFlow` `OpenCV`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 [Document Dedup & Semantic Search](https://github.com/AdityaSingh0414/End-to-End-Document-Deduplication-System-)
 *May '26 – Present*
-End-to-end ML pipeline for document deduplication, semantic similarity analysis, and intelligent document retrieval, featuring OCR-based text extraction, transformer embeddings, NLP feature engineering, and FAISS-powered vector search and clustering for scalable retrieval across large document collections.
-`Python` `EDA` `SciPy` `Jupyter Notebook` `Machine Learning`
 
-### [Travel Genie AI — Multi-Agent Travel Planning Platform](https://github.com/AdityaSingh0414/End-to-End-Project-/tree/main/Generative%20AI%20Projects/Project-2(Travel_Planner_MultiAi_Agent))
+End-to-end pipeline for deduplication & semantic retrieval across large document sets — OCR extraction, transformer embeddings, NLP feature engineering, and **FAISS** vector search/clustering at scale.
+
+`Python` `SciPy` `FAISS` `NLP` `EDA`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### ✈️ [Travel Genie AI — Multi-Agent Travel Planner](https://github.com/AdityaSingh0414/End-to-End-Project-/tree/main/Generative%20AI%20Projects/Project-2(Travel_Planner_MultiAi_Agent))
 *Apr '26 – May '26*
-End-to-end multi-agent travel planning engine using LangChain and Groq LLM to generate personalized itineraries, hotel recommendations, budget estimates, and transportation plans. Includes a Random Forest destination recommendation engine, RAG with FAISS for travel knowledge retrieval, and a full-stack app with authentication and trip history.
-`Python` `FastAPI` `Scikit-learn` `Sentence Transformers` `FAISS` `NLP` `PaddleOCR` `PostgreSQL` `Docker` `AWS`
 
----
+A multi-agent travel planning engine (**LangChain + Groq LLM**) generating personalized itineraries, hotel picks, budgets, and transport plans — with a Random Forest destination recommender, RAG over FAISS for travel knowledge, and a full-stack app with auth and trip history.
+
+`Python` `FastAPI` `Sentence Transformers` `FAISS` `PaddleOCR` `PostgreSQL` `Docker` `AWS`
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🏅 Achievements & Certifications
 
-- 🏆 **Java Maestro** — hands-on training in developing GUI applications (Jun '25 – Jul '25)
-- 🔥 50-day LeetCode streak (2025 & 2026) — **280+ problems solved** in Java, Python3, and MySQL
-- ✅ AI Tools and ChatGPT Workshop — be10X
-- ✅ NPTEL Cloud Computing — Cleared
-- ✅ Build Generative AI Apps and Solutions with No-Code Tools — Infosys
-- ✅ ChatGPT-4 Prompt Engineering: ChatGPT, Generative AI & LLM
-- ✅ Computational Theory: Language Principles & Finite Automata Theory
+| | |
+|---|---|
+| 🏆 | **Java Maestro** — GUI application development (Jun '25 – Jul '25) |
+| 🔥 | 50-day LeetCode streaks (2025 & 2026) — **280+ problems solved** (Java, Python3, MySQL) |
+| ✅ | AI Tools and ChatGPT Workshop — be10X |
+| ✅ | NPTEL Cloud Computing — Cleared |
+| ✅ | Build Generative AI Apps with No-Code Tools — Infosys |
+| ✅ | ChatGPT-4 Prompt Engineering: ChatGPT, Generative AI & LLM |
+| ✅ | Computational Theory: Language Principles & Finite Automata |
 
----
+<br/>
 
-## 📊 GitHub & LeetCode Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSingh0414&show_icons=true&theme=dark" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSingh0414&layout=compact&theme=dark" alt="Top Languages" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSingh0414&theme=dark" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSingh0414&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaSingh0414&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaSingh0414&show_icons=true&theme=react&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSingh0414&layout=compact&theme=react&hide_border=true" height="165"/>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/1404_aditya?theme=dark&font=baloo2&ext=activity" alt="LeetCode Stats"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSingh0414&theme=react&hide_border=true" />
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=AdityaSingh0414&theme=algolia&no-frame=true&row=1&column=6" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdityaSingh0414&color=blue&style=flat-square" alt="Profile Views" />
-</p>
+<!-- snake animation: see snake.yml workflow — renders here once the Action has run once -->
+<img src="https://raw.githubusercontent.com/AdityaSingh0414/AdityaSingh0414/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<div align="center">
+
+### 💻 LeetCode
+
+<img src="https://leetcard.jacoblin.cool/1404_aditya?theme=dark&font=baloo2&ext=activity" alt="LeetCode Stats"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer"/>
+
+<img src="https://komarev.com/ghpvc/?username=AdityaSingh0414&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+</div>
